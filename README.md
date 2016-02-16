@@ -20,6 +20,6 @@ Test de innovación
   - [ ] Un profesional de diseño
   - [ ] Alguien que sabe mucho, pero es de otra profesión
   - [ ] Alguien que solo quiere ayudar
-- Mi emprendimiento nació porque:
-  - [ ] Tiene un propósito noble
+- Mi emprendimiento nació principalmente porque:
   - [ ] Identifiqué una oportunidad de negocio
+  - [ ] Nació de un propósito noble
