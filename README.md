@@ -12,8 +12,8 @@ Test de innovación
   - [ ] No es mi vocación, pero igual me gusta
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
 - Mi emprendimiento:
+  - [ ] Aumenta la productividad
   - [ ] Soluciona un problema
-  - [ ] Introduce una mejora
   - [ ] Da placer a las personas
   - [ ] Otra cosa
 - Mi imágen de marca y diseño lo maneja:
