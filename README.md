@@ -22,4 +22,4 @@ Test de innovación
   - [ ] Alguien que solo quiere ayudar
 - Mi emprendimiento nació principalmente porque:
   - [ ] Identifiqué una oportunidad de negocio
-  - [ ] Tengo un propósito noble
+  - [ ] Me propuse una causa noble
