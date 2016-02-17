@@ -16,7 +16,7 @@ Test de innovación
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
 - Mi emprendimiento es una propuesta de:
   - [ ] Mejoramiento, aumento de productividad, conectividad
-  - [ ] Innovación técnica, cambio de normas en el sistema, impacto social
+  - [ ] Innovación científica, cambio de normas en el sistema, impacto social
   - [ ] Placer, entretenimiento
 - Mi imágen de marca y diseño lo maneja:
   - [ ] Un profesional de diseño
