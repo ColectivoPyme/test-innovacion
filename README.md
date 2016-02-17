@@ -25,6 +25,9 @@ Test de innovación
 - Inicié este emprendimiento porque:
   - [ ] Identifiqué una oportunidad de negocio
   - [ ] Tengo una causa noble
+- Puedo describir mi idea de negocio en 60 segundos:
+  - [ ] Sí
+  - [ ] No
 - Mis precios serán:
   - [ ] Más caros que el promedio de mi industria
   - [ ] Más baratos que el promedio de mi industria
