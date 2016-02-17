@@ -15,9 +15,9 @@ Test de innovación
   - [ ] No es mi vocación, pero me gusta
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
 - El objetivo de mi emprendimiento es:
-  - [ ] Aumento de productividad o mejora
-  - [ ] Innovación y cambio de normas
-  - [ ] Placer o entretenimiento
+  - [ ] Mejora, aumento de productividad, conectividad
+  - [ ] Innovación, cambio de normas, impacto social
+  - [ ] Placer, entretenimiento
 - Mi imágen de marca y diseño lo maneja:
   - [ ] Un profesional de diseño
   - [ ] Alguien que sabe mucho, pero es de otra profesión
