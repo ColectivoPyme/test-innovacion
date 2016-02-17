@@ -3,19 +3,20 @@ Test de innovación
 
 ## Tengo un emprendimiento
 
-- Sitio web/aplicación:
+- Aplicación, sitio web, o facebook:
   - URL
-- El sitio/aplicación genera:
-  - [ ] Ventas directas
-  - [ ] Tráfico, networking, visibilidad
+- Esta app/sitio/aplicación me genera:
+  - [ ] Ventas (good)
+  - [ ] Alcance de metas críticas (good)
+  - [ ] Tráfico, visibilidad, networking
 - Mi emprendimiento está basado en:
   - [ ] Mi vocación
   - [ ] Algo relacionado a mi vocación
   - [ ] No es mi vocación, pero me gusta
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
-- Mi emprendimiento es del tipo:
-  - [ ] Mejora, productividad, 
-  - [ ] Innovación y cambio de normas para mi industria
+- El objetivo de mi emprendimiento es:
+  - [ ] Aumento de productividad o mejora
+  - [ ] Innovación y cambio de normas
   - [ ] Placer o entretenimiento
 - Mi imágen de marca y diseño lo maneja:
   - [ ] Un profesional de diseño
