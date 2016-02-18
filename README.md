@@ -15,17 +15,20 @@ Test de innovación
   - [ ] No es mi vocación, pero me gusta
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
 - Mi emprendimiento es una propuesta de:
-  - [ ] Mejoramiento, aumento de productividad, conectividad, soporte
-  - [ ] Innovación científica, cambio de normas en el sistema, impacto social
+  - [ ] Mejoramiento, aumento de productividad, conectividad, consumo
+  - [ ] Innovación científica, cambio de normativa, impacto social
   - [ ] Placer, entretenimiento
+- Si se me ocurre una idea brillante me inclino por:
+  - [ ] Consultar a mis clientes si les gusta la idea
+  - [ ] Tratar de venderles la idea porque creo que es muy buena
 - Mi imágen de marca la maneja:
   - [ ] Un profesional de diseño
-  - [ ] Alguien que sabe mucho, pero es de otra profesión
+  - [ ] Alguien que sabe mucho, pero no es diseñador
   - [ ] Alguien que solo quiere ayudar
 - Inicié este emprendimiento porque:
   - [ ] Identifiqué una oportunidad de negocio
   - [ ] Tengo una causa noble
-- Puedo describir mi idea de negocio en 60 segundos:
+- Puedo describir mi idea de negocio de memoria en 60 segundos:
   - [ ] Sí
   - [ ] No
 - Mis precios serán:
