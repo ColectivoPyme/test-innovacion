@@ -1,6 +1,12 @@
 # test-innovacion
 Test de innovación
 
+## Parámetros:
+
+- Probabilidades de éxito
+- Perfil innovador
+- Personalidad emprendedora
+
 ## Tengo un emprendimiento
 
 - Aplicación, sitio web, o facebook:
