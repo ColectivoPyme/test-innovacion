@@ -25,6 +25,9 @@ Test de innovación
   - [ ] Un profesional de diseño
   - [ ] Alguien que sabe mucho, pero no es diseñador
   - [ ] Alguien que solo quiere ayudar
+- Cuando la gente me dice que estoy equivocado:
+  - [ ] Recurro a la voz de la experiencia y a personas con trayectoria
+  - [ ] A las personas les cuesta hacerme cambiar de opinión
 - Inicié este emprendimiento porque:
   - [ ] Identifiqué una oportunidad de negocio
   - [ ] Tengo una causa noble
