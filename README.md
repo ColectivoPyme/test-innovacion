@@ -4,8 +4,9 @@ Test de innovación
 ## Parámetros:
 
 - Probabilidades de éxito
-- Perfil innovador
+- Potencial innovador
 - Personalidad emprendedora
+- Calificación 
 
 ## Tengo un emprendimiento
 
@@ -21,8 +22,8 @@ Test de innovación
   - [ ] No es mi vocación, pero me gusta
   - [ ] No sé si es mi vocación, pero soy demasiado bueno(a) en esto
 - Mi emprendimiento es una propuesta de:
-  - [ ] Mejoramiento, aumento de productividad, conectividad, consumo
-  - [ ] Innovación científica, cambio de normativa, impacto social
+  - [ ] Mejoramiento, productividad, conectividad, consumo
+  - [ ] Innovación científica, social, institucional, normativa
   - [ ] Placer, entretenimiento
 - Si se me ocurre una idea brillante yo:
   - [ ] Consulto a mis clientes anstes de arriesgar mi dinero
